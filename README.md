@@ -1,4 +1,1 @@
-stripe-contest
-==============
-
-stripe contest
+text
